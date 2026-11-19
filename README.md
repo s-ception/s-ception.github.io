@@ -1,3 +1,4 @@
+<link rel="icon" href="/favicon.ico" sizes="32x32">
 <link rel="stylesheet" href="style.css">
 <div align="center" markdown="1">
 
