@@ -3,7 +3,7 @@
 <div align="center" markdown="1">
 
 # Welcome to Scratch-Ception, Enjoy!
-This is a packaged Griffpatch project. [Scratch Emulator v0.23.3](https://scratch.mit.edu/projects/113321949). I did not make the project, just packaged it with [Absoloute Mod](https://absoloutemod.github.io)/[Snail IDE](https://snail-ide.js.org). Also, Griffpatch made this project, i'm not Grifffpatch and this is unofficial. This also contains a [ChitterChatter](https://chitchatter.im/) room.
+This is a packaged Griffpatch project. [Scratch Emulator v0.23.3](https://scratch.mit.edu/projects/113321949). I did not make the project, just packaged it with [Absoloute Mod](https://absoloutemod.github.io)/[Snail IDE](https://snail-ide.js.org). Also, Griffpatch made this project, i'm not Grifffpatch and this is unofficial. This also contains a [roject by me](play/ssbu.html) room.
 <br>
 ![Kiwi](kiwi_35.png)
 <br>
