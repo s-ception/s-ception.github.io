@@ -5,15 +5,12 @@ html, body {
 }
 
 body {
-  /* White center fading to a navy outer edge */
   background: radial-gradient(ellipse at center, #ffffff 55%, #001f3f 100%);
   background-attachment: fixed;
 
-  /* Dark text for readability in the white center */
   color: #111111;
 
-  /* Keeps text centered inside the white area away from the navy border */
   padding: 40px 15%;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE", cursive, sans-serif;
   line-height: 1.6;
 }
