@@ -1,16 +1,19 @@
 html, body {
-  margin: 0;
-  padding: 0;
-  min-height: 100vh;
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 100vh !important;
 }
 
 body {
-  background: radial-gradient(ellipse at center, #ffffff 55%, #001f3f 100%);
-  background-attachment: fixed;
+  background: radial-gradient(ellipse at center, #ffffff 55%, #001f3f 100%) !important;
+  background-attachment: fixed !important;
 
-  color: #111111;
+  color: #111111 !important;
 
-  padding: 40px 15%;
+  padding: 40px 15% !important;
+  line-height: 1.6 !important;
+}
+
+body, .markdown-body, .markdown-body h1, .markdown-body h3, .markdown-body h5, .markdown-body p {
   font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE", cursive, sans-serif !important;
-  line-height: 1.6;
 }
