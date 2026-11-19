@@ -21,3 +21,10 @@ body, .markdown-body, .markdown-body h1, .markdown-body h3, .markdown-body h5, .
 .markdown-body > h1:first-child {
   display: none !important;
 }
+
+img[src*="kiwi_35.png"] {
+  mix-blend-mode: multiply !important;
+  border-radius: 50% !important;
+  aspect-ratio: 1 / 1 !important;
+  object-fit: cover !important;
+}
