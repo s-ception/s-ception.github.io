@@ -18,7 +18,6 @@ body, .markdown-body, .markdown-body h1, .markdown-body h3, .markdown-body h5, .
   font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE", cursive, sans-serif !important;
 }
 
-/* Hides the automatic GitHub Pages blue repo title link */
 .markdown-body > h1:first-child {
   display: none !important;
 }
