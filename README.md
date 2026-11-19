@@ -1,9 +1,4 @@
-<style>
-  body {
-    background-color: #1a1a2e;
-    color: #ffffff;
-  }
-</style>
+<link rel="stylesheet" href="style.css">
 <div align="center" markdown="1">
 
 # Enjoy!
