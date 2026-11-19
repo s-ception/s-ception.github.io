@@ -6,5 +6,6 @@ A packaged griffpatch project. [Scratch Emulator v0.23.3](https://scratch.mit.ed
 <br><br>
 
 ### <a href="play/" style="color: #8700ff !important;">Proceed to Scratch Ception?</a>
+##### <a href="play/" style="color: #ff0000 !important;">Proceed to Scratch Ception?</a>
 
 </div>
