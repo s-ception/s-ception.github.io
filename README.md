@@ -9,7 +9,7 @@ This is a packaged "Griffpatch" (and an alternative "redspacecat") project: [Scr
 <br>
 
 ### <a href="play/index.html" style="color: #8700ff !important;">Proceed to Scratch-Ception?</a>
-#### <a href="play/sc.html" style="color: #03fc1c !important;">Attempt the alternative Scratch-Ception variant?</a>
+#### <a href="play/mini-scratch.html" style="color: #03fc1c !important;">Attempt the alternative Scratch-Ception variant?</a>
 ##### <a href="play/ssbu.html" style="color: #ff0000 !important;">Enter Super Scratch Bros Ultimate?</a>
 
 </div>
