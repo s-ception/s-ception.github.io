@@ -2,7 +2,7 @@ const bgMusic = document.getElementById("bg-music");
 const clickSfx = document.getElementById("click-sfx");
 
 bgMusic.volume = 0.7;
-clickSfx.volume = 0.4;
+clickSfx.volume = 0.2;
 
 document.addEventListener("click", () => {
   const sound = clickSfx.cloneNode();
