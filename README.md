@@ -12,3 +12,32 @@ This is a packaged "Griffpatch" project: [Scratch Emulator v0.23.3](https://scra
 ##### <a href="play/ssbu.html" style="color: #ff0000 !important;">Enter Super Scratch Bros Ultimate?</a>
 
 </div>
+<audio id="bg-music" src="audio/final.wav" autoplay loop></audio>
+<audio id="click-sfx" src="audio/click.wav" preload="auto"></audio>
+
+<script>
+  const bgMusic = document.getElementById("bg-music");
+  const clickSfx = document.getElementById("click-sfx");
+
+  bgMusic.volume = 0.5;
+  clickSfx.volume = 0.7;
+
+  document.addEventListener("click", () => {
+    const sound = clickSfx.cloneNode();
+    sound.volume = clickSfx.volume;
+    sound.play();
+  });
+
+  bgMusic.play().catch(() => {
+    const startAudio = () => {
+      bgMusic.play();
+      document.removeEventListener("click", startAudio);
+      document.removeEventListener("keydown", startAudio);
+      document.removeEventListener("touchstart", startAudio);
+    };
+
+    document.addEventListener("click", startAudio);
+    document.addEventListener("keydown", startAudio);
+    document.addEventListener("touchstart", startAudio);
+  });
+</script>
