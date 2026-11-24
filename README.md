@@ -14,4 +14,4 @@ This is a packaged "Griffpatch" project: [Scratch Emulator v0.23.3](https://scra
 </div>
 <audio id="bg-music" src="audio/final.wav" autoplay loop></audio>
 <audio id="click-sfx" src="audio/click.wav" preload="auto"></audio>
-<script src="audio.js"></script>
+<img src="kiwi_35.png" width="0" height="0" onload="const s=document.createElement('script');s.src='audio.js';document.body.appendChild(s);">
