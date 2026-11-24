@@ -1,7 +1,7 @@
 const bgMusic = document.getElementById("bg-music");
 const clickSfx = document.getElementById("click-sfx");
 
-bgMusic.volume = 0.4;
+bgMusic.volume = 0.2;
 clickSfx.volume = 0.01;
 
 document.addEventListener("click", () => {
