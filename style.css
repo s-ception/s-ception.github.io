@@ -20,7 +20,7 @@ body,
 .markdown-body h3,
 .markdown-body h5,
 .markdown-body p {
-  font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE", cursive, sans-serif !important;
+  font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE", cursive, sans-serif, arial !important;
 }
 
 .markdown-body > h1:first-child {
@@ -29,4 +29,9 @@ body,
 
 img[src*="kiwi_35.png"] {
   mix-blend-mode: multiply !important;
+}
+
+a,
+a * {
+  cursor: url("big-mouse.png") 0 0, auto !important;
 }
