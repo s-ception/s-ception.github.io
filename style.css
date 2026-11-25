@@ -11,7 +11,7 @@ body {
   color: #111111 !important;
   padding: 40px clamp(20px, 8vw, 120px) !important;
   line-height: 1.6 !important;
-  cursor: url("mini-mouse.png") 0 0, auto !important;
+  cursor: url("big-mouse.png") 0 0, auto !important;
 }
 
 body,
