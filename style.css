@@ -25,3 +25,7 @@ body, .markdown-body, .markdown-body h1, .markdown-body h3, .markdown-body h5, .
 img[src*="kiwi_35.png"] {
   mix-blend-mode: multiply !important;
 }
+
+body {
+  cursor: url('mini-mouse.png') 0 0, auto;
+}
